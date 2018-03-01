@@ -1,6 +1,6 @@
 # Awesome Bootstrap 4 &nbsp;[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Bootstrap 4 resources: [Hackr.io](https://hackr.io/tutorials/learn-bootstrap)
+A curated list of awesome Bootstrap 4 resources: 
 
 ## Official resources
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/) - Official Bootstrap 4 site.
@@ -19,6 +19,9 @@ A curated list of awesome Bootstrap 4 resources: [Hackr.io](https://hackr.io/tut
 - [ng-bootstrap](https://ng-bootstrap.github.io/) - Bootstrap 4 components, powered by Angular 2 and written by the angular-ui Team. ([source](https://github.com/ng-bootstrap/ng-bootstrap))
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) -  Twitter Bootstrap 4 Components For Vue.js 2
 - [reactstrap](https://github.com/reactstrap/reactstrap) -  Simple React Bootstrap 4 components
+
+## Tutorials
+- [On Hackr.io](https://hackr.io/tutorials/learn-bootstrap) - Bootstrap Tutorials and Courses
 
 ## Docs
 - [Awesome Bootstrap 4](https://github.com/highweb/awesome-bootstrap) - A curated list of awesome Bootstrap 4 resources.

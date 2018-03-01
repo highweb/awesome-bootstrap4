@@ -1,6 +1,6 @@
 # Awesome Bootstrap 4 &nbsp;[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Bootstrap 4 resources: 
+A curated list of awesome Bootstrap 4 resources:
 
 ## Official resources
 - [Bootstrap 4](https://v4-alpha.getbootstrap.com/) - Official Bootstrap 4 site.

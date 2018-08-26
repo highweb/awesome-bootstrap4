@@ -3,7 +3,7 @@
 A curated list of awesome Bootstrap 4 resources:
 
 ## Official resources
-- [Bootstrap 4](https://v4-alpha.getbootstrap.com/) - Official Bootstrap 4 site.
+- [Bootstrap 4](https://getbootstrap.com/) - Official Bootstrap 4 site.
 - [bootstrap-rubygem](https://github.com/twbs/bootstrap-rubygem) -  Bootstrap 4 Ruby Gem for Rails / Sprockets and Compass. 
 
 ## Generic plugins and extensions
@@ -19,6 +19,7 @@ A curated list of awesome Bootstrap 4 resources:
 - [ng-bootstrap](https://ng-bootstrap.github.io/) - Bootstrap 4 components, powered by Angular 2 and written by the angular-ui Team. ([source](https://github.com/ng-bootstrap/ng-bootstrap))
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) -  Twitter Bootstrap 4 Components For Vue.js 2
 - [reactstrap](https://github.com/reactstrap/reactstrap) -  Simple React Bootstrap 4 components
+- [bootstrap-ie8](https://github.com/coliff/bootstrap-ie8) - compatibility fix for IE8 and IE9
 
 ## Tutorials
 - [On Hackr.io](https://hackr.io/tutorials/learn-bootstrap) - Bootstrap Tutorials and Courses
